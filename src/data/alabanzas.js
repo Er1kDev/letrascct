@@ -3160,7 +3160,8 @@ const alabanzas = [
         id: 188,
         titulo: "Yo vivo para tu loor",
         letra: [
-            `Yo vivo para tu loor 
+            `
+            Yo vivo para tu loor 
             Para ti Señor 
             Yo vivo para tu gloria \n
             Yo vivo para adorarte 
@@ -3176,7 +3177,41 @@ const alabanzas = [
             /Yo te amo, Jesús/`
         ]
     },
+    {
+        id: 189,
+        titulo: "Tu río fluirá",
+        letra: [
+            `Hay un río de vida 
+            Que está fluyendo
+            De tu trono oh Dios \n
+            Llevando vida
+            Llevando paz
+            A cada nación \n
+            Con gran poder
+            Con gran virtud
+            Fluye hoy \n
+            Derrama tu gloria
+            Sobre nosotros
+            Oh Señor \n
+            Tu río fluirá
+            Nadie lo detendrá 
+            Con gloria y con poder
+            Tu gloria se verá \n
+            En toda nación 
+            De toda lengua 
+            De todo linaje
+            Y de toda nación \n
+            Tu río fluye
+            Llevando vida
+            Y bendición 
+            `
+        ]
+    }
+
 
 ];
+
+// Ordenar alfabeticamente
+alabanzas.sort((a, b) => a.titulo.localeCompare(b.titulo));
 
 export default alabanzas;

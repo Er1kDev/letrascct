@@ -28,7 +28,7 @@ export const AlabanzasDetalle = () => {
                 </div>
                 <div className='text-center py-10'>
                     <Link to="/">
-                        <p className='inline-block bg-black text-white py-2 px-4 rounded hover:bg-white hover:text-black transition'>
+                        <p className='inline-block bg-blue-800 text-white py-2 px-4 rounded hover:bg-white hover:text-black transition'>
                             Volver
                         </p>
                     </Link>
