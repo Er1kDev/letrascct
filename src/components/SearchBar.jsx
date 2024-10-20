@@ -3,7 +3,7 @@ import React from 'react'
 export const SearchBar = ({ searchTerm, onSearchChange }) => {
     return (
         <div>
-            <p className="text-center text-3xl pb-10">Listado de alabanzas</p>
+            <p className="text-center md:text-3xl text-xl pb-10">Listado de alabanzas</p>
             <input
                 type="text"
                 className='block w-96 px-3 py-1.5 text-base text-gray-700 
