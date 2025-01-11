@@ -3193,6 +3193,7 @@ const alabanzas = [
             Derrama tu gloria
             Sobre nosotros
             Oh Señor \n
+            Coro \n
             Tu río fluirá
             Nadie lo detendrá 
             Con gloria y con poder
@@ -3203,7 +3204,12 @@ const alabanzas = [
             Y de toda nación \n
             Tu río fluye
             Llevando vida
-            Y bendición 
+            Y bendición \n
+            Coro \n
+            Tu río fluirá
+            Nadie lo detendrá 
+            Con gloria y con poder
+            Tu gloria se verá
             `
         ]
     }
