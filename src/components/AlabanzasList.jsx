@@ -25,7 +25,7 @@ export const AlabanzasList = ({ alabanzas }) => {
                                 onClick={() => handleSelectAlabanza(alabanza.id)}
                                 href="#"
                                 className='block p-4 bg-gradient-to-r from-blue-700 to-blue-500 
-                             rounded-lg shadow-lg text-white text-xl
+                             rounded-lg shadow-lg text-white text-2xl
                              hover:from-blue-600 hover:to-blue-400
                              transition-all duration-300 ease-in-out
                              transform hover:-translate-y-1

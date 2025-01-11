@@ -20,7 +20,7 @@ export const AlabanzasDetalle = () => {
                 <div className="space-y-8 p-8">
                     {alabanza.letra.map((estrofa, index) => (
                         <div key={index}
-                            className="text-xl text-center text-white/90 
+                            className="text-2xl text-center text-white/90 
                                       hover:text-white transition-colors duration-300
                                       leading-relaxed tracking-wide">
                             <pre className="whitespace-pre-line font-sans">
