@@ -18,8 +18,8 @@ function App() {
 
   return (
     <Router >
-      <section className="min-h-screen bg-gradient-to-b from-blue-700 to-slate-900" >
-        <h1 className="text-center text-white md:py-16 py-10 drop-shadow-xl md:text-4xl text-2xl font-medium">Alabanzas Comunidad Cristiana Talca</h1>
+      <section className="min-h-screen bg-gradient-to-t from-blue-900 to-blue-800" >
+        <h1 className="text-center text-white md:pt-10 pt-8 md:pb-1 pb-8 drop-shadow-xl md:text-4xl text-4xl font-medium uppercase">Comunidad Cristiana Talca 2025</h1>
         <div className="text-white">
           <div className="container mx-auto max-w-5xl">
             <Routes>
